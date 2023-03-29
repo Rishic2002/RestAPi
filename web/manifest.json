@@ -1,6 +1,6 @@
 {
-    "name": "resthttp",
-    "short_name": "resthttp",
+    "name": "mqttest",
+    "short_name": "mqttest",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
